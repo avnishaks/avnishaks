@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @avnishaks
-- 👀 I’m interested in CP 
 - 🌱 I’m currently exploring area of ML, Android , React Js ,C++ , Python, Java
 - 💞️ I’m looking to collaborate on SOFTWARE DEVELOPMENT
 - 📫 How to reach me avnishgolu927@gmail.com and 7700801472
