@@ -14,5 +14,11 @@ Software Engineer I @ Acko
 Bengaluru, Karnataka, India | Jun 2022 - Present
 
 🚀 Innovative Automation Expert: Spearheaded the automation of Mobile, Web UI, and Backend API processes, optimizing efficiency and enhancing user experience.
+
+
+
 💻 Full-Stack Developer: Engineered comprehensive internal Frontend and Backend applications, leveraging cutting-edge technologies to streamline operations and improve workflow.
+
+
+
 🤖 Chatbot Architect: Pioneered the development of AckoGPT, an advanced internal chatbot system, enhancing communication and productivity within the organization.
