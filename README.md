@@ -29,6 +29,15 @@ Profile views ![Profile views](https://komarev.com/ghpvc/?username=avnish-kumar&
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-006C35?style=for-the-badge&logo=rest-assured&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3&logoColor=white)
+![AI](https://img.shields.io/badge/AI-1E90FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge&logo=datastructures-algorithms&logoColor=white)
 
 I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
 
@@ -36,9 +45,6 @@ I love connecting with different people so if you want to say hi, I’ll be happ
 
 ![Avnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avnish-kumar&show_icons=true&theme=radical)
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnish-kumar&layout=compact&theme=radical)
 
 ## GitHub Trophies
 
