@@ -2,11 +2,11 @@
 
 A passionate Software Engineer.
 
-🔭 I’m currently working on [ChatBot Application : Jankari Hub](#) 
+🔭 I’m currently working on [ChatBot Application : Jankari Hub](https://www.anaconda.com/blog/how-to-build-ai-chatbots-with-mistral-and-llama2) 
 
 🌱 I’m currently learning Advanced AI and Web3 Concepts.
 
-💬 Ask me about Java, Spring Boot, React, Generative AI , Web3 and Automation.
+💬 Ask me about Java, Spring Boot, React, Generative AI , Web3 and Automation ( Mobile / Web / API ) .
 
 📫 How to reach me [cse.avnish@gmail.com](mailto:cse.avnish@gmail.com)
 
