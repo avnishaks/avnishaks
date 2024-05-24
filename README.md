@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @avnishaks
-- 🌱 I’m currently exploring area of ML, Android , React Js ,C++ , Python, Java
-- 💞️ I’m looking to collaborate on SOFTWARE DEVELOPMENT
-- 📫 How to reach me avnishgolu927@gmail.com and 7700801472
 
 
+👨‍💻 Software Engineer | Automation Expert | Full-Stack Developer
 
-<!---
-avnishaks/avnishaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bengaluru, Karnataka, India
+
+About Me
+
+I am a passionate Software Engineer with a strong background in automation, full-stack development, and chatbot architecture. With extensive experience in optimizing processes and enhancing user experiences, I have a proven track record of delivering innovative solutions.
+
+Experience
+
+Software Engineer I @ Acko
+Bengaluru, Karnataka, India | Jun 2022 - Present
+
+🚀 Innovative Automation Expert: Spearheaded the automation of Mobile, Web UI, and Backend API processes, optimizing efficiency and enhancing user experience.
+💻 Full-Stack Developer: Engineered comprehensive internal Frontend and Backend applications, leveraging cutting-edge technologies to streamline operations and improve workflow.
+🤖 Chatbot Architect: Pioneered the development of AckoGPT, an advanced internal chatbot system, enhancing communication and productivity within the organization.
