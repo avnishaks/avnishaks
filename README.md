@@ -10,7 +10,7 @@ A passionate Software Engineer.
 
 📫 How to reach me [cse.avnish@gmail.com](mailto:cse.avnish@gmail.com)
 
-Profile views ![Profile views](https://komarev.com/ghpvc/?username=avnish-kumar&style=flat-square)
+Profile views ![Profile views](https://komarev.com/ghpvc/?username=avnishaks&style=flat-square)
 
 ## Connect with me:
 
@@ -43,17 +43,17 @@ I love connecting with different people so if you want to say hi, I’ll be happ
 
 ## Avnish Kumar's GitHub Stats
 
-![Avnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avnish-kumar&show_icons=true&theme=radical)
+![Avnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avnishaks&show_icons=true&theme=radical)
 
 
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=avnish-kumar&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=avnishaks&theme=radical)
 
 ## GitHub Profile Summary Card
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avnish-kumar&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avnishaks&theme=radical)
 
 ## GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avnish-kumar&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avnishaks&theme=radical)
