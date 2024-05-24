@@ -45,6 +45,11 @@ I love connecting with different people so if you want to say hi, I’ll be happ
 
 ![Avnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avnishaks&show_icons=true&theme=radical)
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnishaks&layout=compact&theme=radical)
+
+
 
 ## GitHub Trophies
 
